@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #000;
+}
+.text {
+  color: #fff;
+  font-family: Poppins;
+  text-align: center;
+  font-size: 100px;  
+}
+.divla {
+  margin-top: 20em;
+}
+
+.span {
+  color: crimson;
+  text-transform: uppercase;
+}
+
+.listitem {
+  color: #fff;
+  display: inline-block
+}
+
+li{
+  font-family: poppins;
+}
